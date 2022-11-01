@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.ch8imp{
+    width: 36vw;
+    margin-left: 33vw;
+    margin-top: 15vh;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    font-size: 22px;
+}
+.ch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    font-size: 25px;
+}
+.ch8-1{
+    margin-bottom: 18px;
+}
+.ch8-2{
+    margin-bottom: 18px;
+}
+.ch8-3{
+    margin-bottom: 18px;
+}
+.ch8-4{
+    margin-bottom: 18px;
+}
+.ch8-5{
+    margin-bottom: 18px;
+}

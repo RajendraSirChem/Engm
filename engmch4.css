@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.ch4imp{
+    width: 41vw;
+    margin-left: 30vw;
+    margin-top: 15vh;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    font-size: 22px;
+}
+.ch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    font-size: 25px;
+}
+.ch4-1{
+    margin-bottom: 18px;
+}
+.ch4-2{
+    margin-bottom: 18px;
+}
+.ch4-3{
+    margin-bottom: 18px;
+}

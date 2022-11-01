@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.ch12imp{
+    width: 29vw;
+    margin-left: 38vw;
+    margin-top: 15vh;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    font-size: 22px;
+}
+.ch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    font-size: 25px;
+}
+.e12-1, .e12-2, .e12-3, .e12-4{
+    margin-left: 40px;
+}
+.e12-4{
+    margin-bottom: 18px;
+}
+.ch12-2{
+    margin-bottom: 18px;
+}
+.ch12-3{
+    margin-bottom: 18px;
+}
+.ch12-4{
+    margin-bottom: 18px;
+}

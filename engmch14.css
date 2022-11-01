@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.ch14imp{
+    width: 43vw;
+    margin-left: 29vw;
+    margin-top: 15vh;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    font-size: 22px;
+}
+.ch{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10vh;
+    font-size: 25px;
+}
+.ch14-1{
+    margin-bottom: 18px;
+}
+.ch14-2{
+    margin-bottom: 18px;
+}
+.ch14-3{
+    margin-bottom: 18px;
+}
+.ch14-4{
+    margin-bottom: 18px;
+}
+.ch14-5{
+    margin-bottom: 18px;
+}
+.ch14-6{
+    margin-bottom: 18px;
+}
+.ch14-7{
+    margin-bottom: 18px;
+}
